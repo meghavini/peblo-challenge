@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDEs and Tools
+.vscode/
+.idea/
+.gemini/
+
+# Sample/test files
+dummy.pdf
+sample.txt
+test_run.py

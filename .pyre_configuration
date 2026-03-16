@@ -1,0 +1,14 @@
+{
+  "source_directories": [
+    "."
+  ],
+  "search_path": [
+    { "import_root": ".", "source": "app" },
+    { "site-package": "fastapi" },
+    { "site-package": "sqlalchemy" },
+    { "site-package": "pydantic" },
+    { "site-package": "pydantic_settings" },
+    { "site-package": "openai" },
+    { "site-package": "pdfplumber" }
+  ]
+}
