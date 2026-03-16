@@ -100,6 +100,5 @@ Visit `http://127.0.0.1:8000/docs`.
 
 ## Demo Video Walkthrough
 
-🎥 **[Insert Loom Video Link Here]**
+🎥 **Video Link]**
 
-*(Provides a complete 5-minute walkthrough demonstrating local inference, environment variables, extracting and generating queries, and utilizing adaptive progress)*
